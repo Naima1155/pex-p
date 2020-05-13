@@ -1,0 +1,93 @@
+/* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+*/
+  
+@media (min-width: 320px) and (max-width: 480px) {
+    .col-md-6{
+        width: 100%;
+        padding: 10px 10px;
+    }
+    .header-section .navbar-nav .btn-info {
+        font-size: 10px;
+        font-weight: 400;
+        background: #000000;
+        padding: 10px 15px;
+        border: 1px solid #8824cd;
+        border-radius: 4px;
+    }
+    .banner {
+        width: 100%;
+        /* padding: 80px 0px; */
+        margin-top: 95px;
+    }
+    .banner .banner-inner h1 {
+        font-size: 35px;
+        font-weight: 500;
+        line-height: 45px;
+        text-align: left;
+        color: #ffffff;
+        /* margin-top: 80px; */
+        margin-bottom: 35px;
+    }
+    .banner .banner-inner .btn-info {
+        font-size: 12px;
+        font-weight: 400;
+        background: #8824cd;
+        border: 1px solid #8824cd;
+        padding: 8px 35px;
+        border-radius: 4px;
+        /* margin-bottom: 8px; */
+        margin-right: 160px;
+    }
+    .banner .banner-inner p {
+        font-size: 11px;
+        color: #ffffff;
+        font-weight: 400;
+        text-align: left;
+        margin-left: 8px;
+        /* padding-left: 80px; */
+    }
+    feature-article .feature-inr {
+        width: 100%;
+        margin-bottom: 40px;
+        margin-left: 50px;
+    }
+    feature-inr1 {
+        width: 100%;
+        margin-bottom: 40px;
+        padding: 10px 20px;
+    }
+    .footer {
+        width: 100%;
+        padding-top: 30px;
+        /* padding-bottom: 90px; */
+        background-color: #2e3b4e;
+    }
+    .footer p {
+        width: 100%;
+        font-size: 11px;
+        font-weight: 400;
+        text-align: left;
+        color: #f8eaec;
+        /* padding-bottom: 50px; */
+    }
+}
+@media screen and (max-width: 992px) {
+    .header-section .navbar-nav .btn-info {
+        font-size: 10px;
+        font-weight: 400;
+        background: #000000;
+        padding: 8px 35px;
+        border: 1px solid #8824cd;
+        border-radius: 5px;
+    }
+    banner .banner-inner h1 {
+        font-size: 40px;
+        font-weight: 500;
+        line-height: 50px;
+        color: #ffffff;
+        margin-top: 80px;
+        /* 
+
+}
