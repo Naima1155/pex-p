@@ -18,7 +18,7 @@ a, a:hover{
 .header-section{
     width: 100%;
     height: 100vh;
-    background: url(img/banner.png) center top no-repeat;
+    background: url(banner.png) center top no-repeat;
     background-size: cover;
 }
 .header-section .bg-light {
@@ -39,7 +39,7 @@ a, a:hover{
     transition: 1s;
 }
 .header-section .navbar-light .navbar-nav .nav-link:hover, .navbar-nav .btn-link:hover {
-    background: url(images/border.png) center bottom no-repeat;
+    background: url(border.png) center bottom no-repeat;
     font-weight: 600;
     text-decoration: none;
 
@@ -141,7 +141,7 @@ a, a:hover{
 .pink{
     width: 100%;
     padding: 80px 0px;
-    background: url(img/banner2.png) center top no-repeat;
+    background: url(banner2.png) center top no-repeat;
     background-size: cover;
 }
 .pink .pink-inr h2{
@@ -216,7 +216,7 @@ a, a:hover{
 .text{
     width: 100%;
     padding: 80px 0px;
-    background: url(img/bnner3.png) center top no-repeat;
+    background: url(bnner3.png) center top no-repeat;
     background-size: cover;
 }
 .text .text-inr h2{
@@ -267,7 +267,7 @@ a, a:hover{
 .photogrpy{
     width: 100%;
     padding: 80px 0px;
-    background: url(img/bnnr4.png) center top no-repeat;
+    background: url(bnnr4.png) center top no-repeat;
     background-size: cover;
 }
 .photogrpy .photogrpy-inr {
